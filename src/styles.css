@@ -1,0 +1,10 @@
+
+#drawSection {
+  width: 50vw;
+  height: 100vh;
+  border: 0.5rem solid black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
